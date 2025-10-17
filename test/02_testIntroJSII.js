@@ -9,7 +9,7 @@ import {
   calcularTotalGastos,
   calcularBalance,
   reiniciarGastos,
-} from "../js/gestionPresupuesto.js";
+} from "../Apliacion de presupuestos/Ampliacion.js";
 
 // Test listarGastos
 describe("listarGastos", function () {
