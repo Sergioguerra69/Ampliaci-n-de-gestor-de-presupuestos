@@ -18,3 +18,4 @@ A grandes rasgos, los pasos que seguiremos para la elaboración de la aplicació
 6. Conectarse con una __API web__ para almacenar la información del usuario en un __servidor web externo__, incluyendo autenticación de usuario. De esta manera el usuario podrá acceder a sus datos desde cualquier navegador.
 7. Utilizar __librerías externas__ para mostrar determinada información de manera __gráfica__ en lugar de texto exclusivamente.
 # Ampliaci-n-de-gestor-de-presupuestos
+# Practica-final
