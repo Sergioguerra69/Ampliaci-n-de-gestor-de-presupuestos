@@ -19,3 +19,4 @@ A grandes rasgos, los pasos que seguiremos para la elaboración de la aplicació
 7. Utilizar __librerías externas__ para mostrar determinada información de manera __gráfica__ en lugar de texto exclusivamente.
 # Ampliaci-n-de-gestor-de-presupuestos
 # Practica-final
+# Practica-final
